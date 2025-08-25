@@ -9,11 +9,9 @@ A library which offers a shimmering effect for Compose.
 The library is available on `mavenCentral()`.
 
 ``` kotlin
-dependencies {
-  implementation("com.valentinilk.shimmer:compose-shimmer:1.3.3")
-}
-```
 
+}
+``
 #### Multiplatform Targets
 
 Supported CMP targets are: `Android`, `iOS`, `JVM (Desktop)`, `JS (Browser)` and `Wasm (WebAssembly)`.
